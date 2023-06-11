@@ -1,2 +1,2 @@
 # SyntaxHighlighter
-Evidencia 2: Implementación de métodos computacionales
+ActividadIntegradora 2: Implementación de métodos computacionales
